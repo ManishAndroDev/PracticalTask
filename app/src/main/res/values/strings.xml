@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ManishPracticalTask</string>
+    <string name="login">LOGIN</string>
+    <string name="abc_gmail_com">abc@gmail.com</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="logout">Logout</string>
+</resources>
